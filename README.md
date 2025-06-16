@@ -2,4 +2,4 @@
 
 ## 📅 Progress
 
-- ✅ Day 01: Basic SELECT
+- ✅ Day 1: Revenue analysis by country using SUM, CASE, and GROUP BY
