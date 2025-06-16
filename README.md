@@ -1,2 +1,5 @@
-# 100-days-of-sql
-My daily SQL practice journey - 100 days, 100 queries!
+# 💯 100 Days of SQL
+
+## 📅 Progress
+
+- ✅ Day 01: Basic SELECT
