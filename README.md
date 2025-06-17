@@ -16,3 +16,10 @@ This repository contains daily SQL practice queries, notes, and insights using r
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
+
+## 🚀 Goals
+
+- 🧠 Master practical SQL
+- 📊 Build query-based thinking for dashboards and insights
+- 🏆 Be consistent and track improvement over 100 days
+- 📚 Create a strong GitHub portfolio for data roles
