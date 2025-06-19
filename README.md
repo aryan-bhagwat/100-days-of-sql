@@ -12,7 +12,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 1 | Revenue analysis by country using `SUM`, `CASE`, `GROUP BY` | Completed |
 | Day 2 | Subquery-based customer filtering by above-average spend | Completed |
 | Day 3 | Date-based sales trend analysis using `FORMAT()`, `DATENAME()` | Completed |
-| Day 4 | *(Coming soon)* | 🔜 Planned |
+| Day 4 | JOINs for Order and Product Insights | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
