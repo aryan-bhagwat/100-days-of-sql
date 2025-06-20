@@ -13,6 +13,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 2 | Subquery-based customer filtering by above-average spend | Completed |
 | Day 3 | Date-based sales trend analysis using `FORMAT()`, `DATENAME()` | Completed |
 | Day 4 | JOINs for Order and Product Insights | Completed |
+| Day 5 | Cumulative Sales Using Window Functions | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
