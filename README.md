@@ -14,6 +14,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 3 | Date-based sales trend analysis using `FORMAT()`, `DATENAME()` | Completed |
 | Day 4 | JOINs for Order and Product Insights | Completed |
 | Day 5 | Cumulative Sales Using Window Functions | Completed |
+| Day 6 | Cumulative revenue by product using window functions | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
