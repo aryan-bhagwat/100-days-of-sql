@@ -17,7 +17,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 6 | Cumulative revenue by product using window functions | Completed |
 | Day 7 | Find customers who placed more than one order | Completed |
 | Day 8 | Select all orders where a discount was applied | Completed |
-| Day 9 | Select orders for a specific product category | Completed |
+| Day 9 | Filter all orders belonging to the 'Technology' category | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
