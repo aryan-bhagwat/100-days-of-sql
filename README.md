@@ -21,6 +21,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 10 | Total number of orders from each city | Completed |
 | Day 11 | Find the product with the highest number of total orders | Completed |
 | Day 12 | Find customers who spent the most in total | Completed |
+| Day 13 | Number of orders per product category | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
