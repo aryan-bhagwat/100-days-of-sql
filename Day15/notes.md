@@ -1,9 +1,7 @@
-## Day 15 – Monthly Sales Trends
+## Day 15 – Repeat Customers
 
-**Challenge:** Analyze sales performance by month and track month-over-month changes.
+**Challenge:** Find customers who have placed more than one order.
 
 **Learned:**
-- Date functions: `YEAR()`, `MONTH()`, `MONTHNAME()`
-- Window functions: `LAG()` for previous row comparison
-- `OVER()` clause for window function ordering
-- Combining aggregation with trend analysis
+- `GROUP BY` customer
+- `HAVING` to filter aggregate results
