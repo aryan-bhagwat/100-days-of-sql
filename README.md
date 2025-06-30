@@ -23,6 +23,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 12 | Find customers who spent the most in total | Completed |
 | Day 13 | Number of orders per product category | Completed |
 | Day 14 | Calculate profit margin for each product | Completed |
+| Day 15 | Analyze monthly sales trends | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
