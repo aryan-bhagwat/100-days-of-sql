@@ -1,8 +1,5 @@
-## Day 16 – Top Spending Customers
-
-**Challenge:** Find customers who spent the most overall.
-
-**Learned:**
-- Aggregation using `SUM()`
-- Grouping and sorting with `GROUP BY` and `ORDER BY`
-- Insights into customer value
+-- Day 16: Find customers who spent the most in total
+SELECT customer_id, SUM(order_total) AS total_spent
+FROM orders
+GROUP BY customer_id
+ORDER BY total_spent DESC;
