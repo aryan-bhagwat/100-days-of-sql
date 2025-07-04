@@ -26,6 +26,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 15 | Find customers with more than one purchase | Completed |
 | Day 16 | Find customers who spent the most in total | Completed |
 | Day 17 | Find the order with the highest total value | Completed |
+| Day 18 | Find customers who have never placed an order | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
