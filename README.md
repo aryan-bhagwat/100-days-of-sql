@@ -29,6 +29,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 18 | Find customers who have never placed an order | Completed |
 | Day 19 | Total number of orders and total spend by each customer | Completed |
 | Day 20 | Count orders per month | Completed |
+| Day 21 | Find orders with more than 3 items| Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
