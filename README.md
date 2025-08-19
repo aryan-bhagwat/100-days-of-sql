@@ -32,6 +32,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 21 | Find orders with more than 3 items| Completed |
 | Day 22 | Find top 5 customers by number of orders | Completed |
 | Day 23 | Find products that were never ordered | Completed |
+| Day 24 | Top 5 revenue-generating products | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
