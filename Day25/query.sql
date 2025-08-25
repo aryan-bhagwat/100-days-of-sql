@@ -1,4 +1,4 @@
--- Day 24 : Find top 10 customers by total spending
+-- Day 25 : Find top 10 customers by total spending
 
 SELECT c.customer_name, SUM(oi.quantity * oi.unit_price) AS total_spent
 FROM customers c
