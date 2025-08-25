@@ -35,6 +35,7 @@ This repository contains daily SQL practice queries, notes, and insights. Each d
 | Day 24 | Top 5 revenue-generating products | Completed |
 | Day 25 | Find top 10 customers by total spending | Completed |
 | Day 26 | Count total orders per customer | Completed |
+| Day 27 | Calculate average order value per customer | Completed |
 | ... | *(More to come up to Day 100)* | ⏳ In progress |
 
 ---
