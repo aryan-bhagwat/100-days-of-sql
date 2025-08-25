@@ -1,4 +1,4 @@
--- Day 24 : Count total orders per customer
+-- Day 26 : Count total orders per customer
 
 SELECT c.customer_name, COUNT(o.order_id) AS total_orders
 FROM customers c
